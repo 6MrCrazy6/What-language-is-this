@@ -1,0 +1,80 @@
+{
+    "localizations": [
+        {
+            "language": "en",
+            "data": {
+                "time": "Time",
+                "score": "Score",
+                "best_score": "Best Score",
+                "finish_score": "Score",
+                "pause": "Pause",
+                "resume": "Resume",
+                "exit": "Exit",
+                "times_up": "Time's Up",
+                "restart": "Restart",
+                "languageFiles": [
+                    "Armenian", "Azerbaijan", "Chinese", "Danish", "English", "Esperanto", "French", "German",
+                    "Icelandic", "Italian", "Japanese", "Kazakh", "Korean", "Nepali", "Polish", "Portuguese",
+                    "Romanian", "Slovak", "Spanish", "Turkish"
+                ]
+            }
+        },
+        {
+            "language": "de",
+            "data": {
+                "time": "Zeit",
+                "score": "Punktestand",
+                "best_score": "Bester Punktestand",
+                "finish_score": "Punktestand",
+                "pause": "Pause",
+                "resume": "Fortsetzen",
+                "exit": "Beenden",
+                "times_up": "Zeit ist um",
+                "restart": "Neustart",
+                "languageFiles": [
+                    "Armenisch", "Aserbaidschanisch", "Chinesisch", "Dänisch", "Englisch", "Esperanto", "Französisch", "Deutsch",
+                    "Isländisch", "Italienisch", "Japanisch", "Kasachisch", "Koreanisch", "Nepalesisch", "Polnisch", "Portugiesisch",
+                    "Rumänisch", "Slowakisch", "Spanisch", "Türkisch"
+                ]
+            }
+        },
+        {
+            "language": "pl",
+            "data": {
+                "time": "Czas",
+                "score": "Wynik",
+                "best_score": "Najlepszy wynik",
+                "finish_score": "Wynik",
+                "pause": "Pauza",
+                "resume": "Wznów",
+                "exit": "Wyjście",
+                "times_up": "Czas minął",
+                "restart": "Restart",
+                "languageFiles": [
+                    "Armeński", "Azerbejdżański", "Chiński", "Duński", "Angielski", "Esperanto", "Francuski", "Niemiecki",
+                    "Islandzki", "Włoski", "Japoński", "Kazachski", "Koreański", "Nepalski", "Polski", "Portugalski",
+                    "Rumuński", "Słowacki", "Hiszpański", "Turecki"
+                ]
+            }
+        },
+        {
+            "language": "tr",
+            "data": {
+                "time": "Zaman",
+                "score": "Skor",
+                "best_score": "En iyi skor",
+                "finish_score": "Skor",
+                "pause": "Duraklat",
+                "resume": "Devam et",
+                "exit": "Çıkış",
+                "times_up": "Süre doldu",
+                "restart": "Yeniden başlat",
+                "languageFiles": [
+                    "Ermenice", "Azerice", "Çince", "Danca", "İngilizce", "Esperanto", "Fransızca", "Almanca",
+                    "İzlandaca", "İtalyanca", "Japonca", "Kazakça", "Korece", "Nepali", "Lehçe", "Portekizce",
+                    "Rumen", "Slovakça", "İspanyolca", "Türkçe"
+                ]
+            }
+        }
+    ]
+}

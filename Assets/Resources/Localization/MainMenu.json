@@ -1,0 +1,96 @@
+{
+    "localizations": [
+        {
+            "language": "en",
+            "data": {
+                "play": "Play",
+                "exit": "Exit",
+                "settings": "Settings",
+                "sound_settings": "Sound settings",
+                "account": "Account",
+                "account_panel": "Account",
+                "language": "Language",
+                "language_panel": "Language",
+                "sound": "Sound",
+                "sound_panel": "Sound",
+                "music": "Music",
+                "back": "Back",
+                "english": "English",
+                "german": "German",
+                "polish": "Polish",
+                "turkish": "Turkish",
+                "sign_in_gmail": "Sign in with Gmail",
+                "sign_in_google_play": "Google Play Games"
+            }
+        },
+        {
+            "language": "de",
+            "data": {
+                "play": "Spielen",
+                "exit": "Beenden",
+                "settings": "Einstellungen",
+                "sound_settings": "Toneinstellungen",
+                "account": "Konto",
+                "account_panel": "Konto",
+                "language": "Sprache",
+                "language_panel": "Sprache",
+                "sound": "Ton",
+                "sound_panel": "Ton",
+                "music": "Musik",
+                "back": "Zurück",
+                "english": "Englisch",
+                "german": "Deutsch",
+                "polish": "Polnisch",
+                "turkish": "Türkisch",
+                "sign_in_gmail": "Mit Gmail anmelden",
+                "sign_in_google_play": "Google Play Spiele"
+            }
+        },
+        {
+            "language": "pl",
+            "data": {
+                "play": "Graj",
+                "exit": "Wyjście",
+                "settings": "Ustawienia",
+                "sound_settings": "Ustawienia dźwięku",
+                "account": "Konto",
+                "account_panel": "Konto",
+                "language": "Język",
+                "language_panel": "Język",
+                "sound": "Dźwięk",
+                "sound_panel": "Dźwięk",
+                "music": "Muzyka",
+                "back": "Wróć",
+                "english": "Angielski",
+                "german": "Niemiecki",
+                "polish": "Polski",
+                "turkish": "Turecki",
+                "sign_in_gmail": "Zaloguj się przez Gmail",
+                "sign_in_google_play": "Google Play Gry"
+            }
+        },
+        {
+            "language": "tr",
+            "data": {
+                "play": "Oyna",
+                "exit": "Çıkış",
+                "settings": "Ayarlar",
+                "sound_settings": "Ses ayarları",
+                "account": "Hesap",
+                "account_panel": "Hesap",
+                "language": "Dil",
+                "language_panel": "Dil",
+                "sound": "Ses",
+                "sound_panel": "Ses",
+                "music": "Müzik",
+                "back": "Geri",
+                "english": "İngilizce",
+                "german": "Almanca",
+                "polish": "Lehçe",
+                "turkish": "Türkçe",
+                "sign_in_gmail": "Gmail ile giriş yap",
+                "sign_in_google_play": "Google Play Oyunları"
+            }
+        }
+    ]
+}
